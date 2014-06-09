@@ -1,0 +1,15 @@
+{
+  "name": "rw-arg",
+  "version": "0.0.0",
+  "author": "Maciej Małecki <me@mmalecki.com>",
+  "description": "`var input = rwArg.readSync('-')`",
+  "keywords": [
+    "UNIX",
+    "stdin",
+    "stdout"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "rw": "0.0.4"
+  }
+}
