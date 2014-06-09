@@ -1,6 +1,6 @@
 {
   "name": "rw-arg",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Maciej Małecki <me@mmalecki.com>",
   "description": "`var input = rwArg.readSync('-')`",
   "keywords": [
